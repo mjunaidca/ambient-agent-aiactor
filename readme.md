@@ -2,7 +2,7 @@
 
 The is self challenge in progress.
 
-🎯 **End Goal**: A 🔌 Plug-and-Play runtime compatible with any agent type, from LLMs (OpenAI, LangGraph) to workflows (Temporal, Dapr Workflows).
+🎯 **End Goal**: A 🔌 Plug-and-Play agent runtime compatible with any agent type, from agent frameworks (OpenAI Agents SDK, LangGraph) to workflows (Temporal, Dapr Workflows).
 
 🔁 **Analogy**: The `BaseActor` is a Dapr Virtual Actor—a fully featured AI agent runtime equipped with:
 
